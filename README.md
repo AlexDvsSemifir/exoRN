@@ -44,3 +44,19 @@ Unused React Native Elements dependencies :
 ```bash
 npm install react-native-vector-icons
 ```
+
+# Features 
+
+## User Page
+
+Display user info
+
+## User Form
+
+Allow you tu add a user to the user page
+
+Auto-complete is on ! (not working on emulator for obvious reasons, but still there !)
+
+### Submit
+
+Submit is disabled if you don't write the required informations !

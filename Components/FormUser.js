@@ -75,7 +75,7 @@ const FormUser = ({route, navigation}) => {
     <View>
       <Input placeholder="Nom d'utilisateur" onChangeText={onChangeUsername} />
       <Input
-        placeholder="Nom"
+        placeholder="Nom et Prénom"
         onChangeText={onChangeName}
         autoComplete="name"
       />
